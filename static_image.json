@@ -1,8 +1,7 @@
-[
-    {
-        "url": "https://github.com/xirainfotech/BNI-Docs/blob/main/p5.png"
-    },
-    {
-        "url": "https://github.com/xirainfotech/BNI-Docs/blob/main/p6.png"
-    }
-]
+{
+    "url":[
+        "https://github.com/xirainfotech/BNI-Docs/blob/main/p5.png",
+        "https://github.com/xirainfotech/BNI-Docs/blob/main/p6.png"
+
+    ]
+}
